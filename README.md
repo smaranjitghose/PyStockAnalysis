@@ -1,6 +1,5 @@
 # PyFinAnalytics
 
-
 # Steps:
 
 - [ ] Basic Streamlit App
