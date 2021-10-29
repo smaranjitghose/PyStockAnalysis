@@ -2,7 +2,7 @@
 
 # Steps:
 
-- [ ] Basic Streamlit App
+- [x] Basic Streamlit App
 - [ ] Indian Stock Data
 - [ ] Indexes:
   - [ ] NASDAQ
